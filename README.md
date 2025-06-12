@@ -20,17 +20,28 @@
 </a>
 
 ---
-<p align="left">
-  <a href="https://sites.google.com/view/chlwr"><img src="https://img.shields.io/badge/Homepage-chlwr-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Homepage"/></a>
-  <a href="https://scholar.google.com/citations?hl=en&user=24UBrN4AAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar" alt="Google Scholar"/></a>
-</p>
+<div>
+<img align="right" width="256" src="https://github-readme-stats.vercel.app/api?username=Happy2Git&show_icons=true&hide=prs,contribs&theme=gradient&hide_title=true" />
 
-**Email:** X.Y@Z, where X = chenglong, Y = wang, and Z = kaust.edu.sa
+  <div>
+    <a href="https://sites.google.com/view/chlwr">
+      <img src="https://img.shields.io/badge/Homepage-chlwr-green?style=flat-square&logo=google-chrome&logoColor=white" alt="Homepage"/>
+    </a>
+    <a href="https://scholar.google.com/citations?hl=en&user=24UBrN4AAAAJ">
+      <img src="https://img.shields.io/badge/Google_Scholar-Profile-blue?style=flat-square&logo=google-scholar" alt="Google Scholar"/>
+    </a>
+  </div>
+
+  <div>
+    <strong>Email:</strong> X.Y@Z, where X = chenglong, Y = wang, and Z = kaust.edu.sa
+  </div>
+</div>
+
 
 ---
 
 ### ✨ Pinned News
--   [Jun 2025]  Our paper "Towards Lifecycle Unlearning Commitment Management: Measuring Sample-level Unlearning Completeness" has been accepted by USENIX Security Symposium 2025. [preprint](https://arxiv.org/abs/2506.06112), [code](https://github.com/Happy2Git/Unlearning_Inference_IAM) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/Unlearning_Inference_IAM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/Unlearning_Inference_IAM/stargazers)
+-   [Jun 2025]  Our paper "Measuring Sample-level Unlearning Completeness" has been accepted by USENIX Security Symposium 2025. [preprint](https://arxiv.org/abs/2506.06112), [code](https://github.com/Happy2Git/Unlearning_Inference_IAM) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/Unlearning_Inference_IAM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/Unlearning_Inference_IAM/stargazers)
 -   **[May 2024]** Honored to receive the **EPFL - SURI Fellowship**! I'll be presenting our work on machine unlearning measurements in Lausanne.
 -   [Dec 2023] Our paper "Communication Efficient and Provable Federated Unlearning" was accepted at VLDB 2024. [paper](https://dl.acm.org/doi/10.14778/3641204.3641220), [code](https://github.com/Happy2Git/FATS_supplement) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/FATS_supplement.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/FATS_supplement/stargazers)
 -   **[Sep 2023]** Received the **CEMSE Dean's List Award** at KAUST.
