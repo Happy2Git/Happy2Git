@@ -41,11 +41,12 @@
 ---
 
 ### ✨ Pinned News
+- **[Jul 2025]** Received the **USENIX Security '25 Student Grant**.
 -   [Jun 2025]  Our paper "Measuring Sample-level Unlearning Completeness" has been accepted by USENIX Security Symposium 2025. [preprint](https://arxiv.org/abs/2506.06112), [code](https://github.com/Happy2Git/Unlearning_Inference_IAM) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/Unlearning_Inference_IAM.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/Unlearning_Inference_IAM/stargazers)
 -   **[May 2024]** Honored to receive the **EPFL - SURI Fellowship**! I'll be presenting our work on machine unlearning measurements in Lausanne.
 -   [Dec 2023] Our paper "Communication Efficient and Provable Federated Unlearning" was accepted at VLDB 2024. [paper](https://dl.acm.org/doi/10.14778/3641204.3641220), [code](https://github.com/Happy2Git/FATS_supplement) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/FATS_supplement.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/FATS_supplement/stargazers)
--   **[Sep 2023]** Received the **CEMSE Dean's List Award** at KAUST.
--   **[Jul 2023]** Awarded the **USENIX Security '23 Student Grant**.
+-   **[Sep 2023]** Awarded the **CEMSE Dean's List Award** at KAUST.
+-   **[Jul 2023]** Received the **USENIX Security '23 Student Grant**.
 -   [Apr 2023] Our paper "High Dimensional Statistical Estimation under Uniformly Dithered One-bit Quantization" was accepted at IEEE Transactions on Information Theory (TIT).
 -   [Apr 2023] Our paper "Inductive Graph Unlearning" was accepted at USENIX Security Symposium 2023. [paper](https://www.usenix.org/system/files/usenixsecurity23-wang-cheng-long.pdf), [code](https://github.com/Happy2Git/GUIDE) [![GitHub stars](https://img.shields.io/github/stars/Happy2Git/GUIDE.svg?style=social&label=Star&maxAge=2592000)](https://github.com/Happy2Git/GUIDE/stargazers)
 ---
